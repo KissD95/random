@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textDisplay"
         android:layout_centerHorizontal="true"
-        android:text="Nyomj rám"/>
+        android:text="Nyomj rám"
+        android:id="@+id/gomb"/>
 
 </RelativeLayout>
